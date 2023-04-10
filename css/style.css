@@ -5,9 +5,7 @@
   .start-container {
     display: flex;
   }
-  .logo{
-
-  }
+  
   .logo h4 {
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -24,7 +22,8 @@
 
   .login {
     display: flex;
+    background: rgb(37, 117, 192);
+    border-radius: 5px;
   }
-  .login img {
-    text-align: right;
-  }
+ 
+  
